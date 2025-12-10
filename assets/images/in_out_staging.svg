@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        mask: url(#mask);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+    <mask id="mask" x="2.95" y="-3.4" width="58.1" height="58.1" maskUnits="userSpaceOnUse">
+      <g id="custom">
+        <rect id="bg" class="cls-1" x="2.95" y="-3.4" width="58.1" height="58.1"/>
+      </g>
+    </mask>
+  </defs>
+  <g class="cls-2">
+    <g id="g591">
+      <g id="g593">
+        <g id="g595">
+          <g id="g601">
+            <path id="path603" class="cls-3" d="m52.42,37.77v7.61H11.58v-7.61c0-.75-.61-1.36-1.36-1.36h-4.77c-.75,0-1.36.61-1.36,1.36v9.26c0,2.63,2.13,4.76,4.76,4.76h46.31c2.63,0,4.76-2.13,4.76-4.76v-9.26c0-.75-.61-1.36-1.36-1.36h-4.77c-.75,0-1.36.61-1.36,1.36Z"/>
+          </g>
+          <g id="g605">
+            <path id="path607" class="cls-3" d="m29.23,20.18l-5.65-7.24c-.75-.96-2.2-.96-2.95,0l-5.65,7.24c-.96,1.23-.08,3.02,1.47,3.02h3.2v14.44h4.9v-14.44h3.2c1.56,0,2.43-1.79,1.47-3.02Z"/>
+          </g>
+          <g id="g609">
+            <path id="path611" class="cls-3" d="m34.77,29.68l5.65,7.24c.75.96,2.2.96,2.95,0l5.65-7.24c.96-1.23.08-3.02-1.47-3.02h-3.2v-14.44h-4.9v14.44h-3.2c-1.56,0-2.43,1.79-1.47,3.02Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="g2418">
+    <g id="g2420">
+      <g id="g2422">
+        <path id="path2428" class="cls-1" d="m52.08,43.98H11.92v-5h40.17v5Z"/>
+        <g id="g2430">
+          <path id="path2432" class="cls-1" d="m14.5,43.98v5"/>
+        </g>
+        <g id="g2434">
+          <path id="path2436" class="cls-1" d="m19.5,48.98v-5"/>
+        </g>
+        <g id="g2438">
+          <path id="path2440" class="cls-1" d="m29.5,43.98v5"/>
+        </g>
+        <g id="g2442">
+          <path id="path2444" class="cls-1" d="m34.5,48.98v-5"/>
+        </g>
+        <g id="g2446">
+          <path id="path2448" class="cls-1" d="m44.5,43.98v5"/>
+        </g>
+        <g id="g2450">
+          <path id="path2452" class="cls-1" d="m49.5,48.98v-5"/>
+        </g>
+      </g>
+    </g>
+    <g id="g2454">
+      <path id="path2456" class="cls-1" d="m17,38.98v-15.17h15v15.17"/>
+    </g>
+    <g id="g2458">
+      <path id="path2460" class="cls-1" d="m22,23.81v5h5v-5"/>
+    </g>
+    <g id="g2462">
+      <g id="g2464">
+        <g id="g2470">
+          <path id="path2472" class="cls-1" d="m24.5,23.81v-15h15v15"/>
+        </g>
+        <g id="g2474">
+          <path id="path2476" class="cls-1" d="m29.5,8.81v5h5v-5"/>
+        </g>
+      </g>
+    </g>
+    <g id="g2478">
+      <path id="path2480" class="cls-1" d="m32,23.81h15v15.17"/>
+    </g>
+    <g id="g2482">
+      <path id="path2484" class="cls-1" d="m37,23.81v5h5v-5"/>
+    </g>
+    <g id="g2486">
+      <g id="g2488">
+        <g id="g2494">
+          <path id="path2496" class="cls-1" d="m11.92,48.98h40.17"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
