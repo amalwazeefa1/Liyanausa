@@ -1,0 +1,9 @@
+.list-group-item{
+  display: flex;
+    list-style-type: disc;
+
+}
+
+.list-group-circle{
+  list-style-type: disc;
+}

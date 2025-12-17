@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="g1545">
+    <g id="g1547">
+      <g id="g1549">
+        <g id="g1555">
+          <path id="path1557" class="cls-1" d="m19.91,46.6l-4.48-6.03c-.8-1.24-.38-2.91.93-3.68,1.25-.74,2.85-.38,3.62.81l4.78,6.5c1.22,1.9,1.47,4.26.66,6.4l-2.12,4.17h-8.6l1.52-3.34-6.99-9.42v-19.14h1.79c2.2,0,3.98,1.78,3.98,3.98v12.5"/>
+        </g>
+        <g id="g1559">
+          <path id="path1561" class="cls-1" d="m44.09,46.6l4.48-6.03c.8-1.24.38-2.91-.93-3.68-1.25-.74-2.85-.38-3.62.81l-4.78,6.5c-1.22,1.9-1.47,4.26-.66,6.4l2.12,4.17h8.6l-1.52-3.34,6.99-9.42v-19.14h-1.79c-2.2,0-3.98,1.78-3.98,3.98v12.5"/>
+        </g>
+        <path id="path1563" class="cls-1" d="m42.93,30.91h-21.9V9.23h21.9v21.68Z"/>
+        <path id="path1565" class="cls-1" d="m34.94,16.9h-5.91v-7.67h5.91v7.67Z"/>
+        <g id="g1567">
+          <path id="path1569" class="cls-1" d="m38.56,25.25h-5.03"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
