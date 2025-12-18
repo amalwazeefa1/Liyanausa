@@ -18765,6 +18765,11 @@ img {
   height: auto;
 }
 
+.navbar img {
+  height: unset;
+  max-width: unset;
+}
+
 video {
   background-size: cover;
   display: table-cell;
