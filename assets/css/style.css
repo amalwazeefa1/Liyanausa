@@ -21867,3 +21867,9 @@ a.text-primary-hover:hover, button.text-primary-hover:hover {
     left: 60%;
     transform: translate(90%, -30%);
   }
+
+  @media (max-width: 480px) {
+    .navbar h3 {
+      display: none !important;
+    }
+  }
